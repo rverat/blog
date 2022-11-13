@@ -1,0 +1,49 @@
+
+.sidebar-nav {
+    margin-top: 20px;
+    padding: 0;
+    list-style: none;
+  }
+
+footer {
+    position: absolute;
+    bottom: 0;
+    background-color: #292c2f;
+    color: #bbb;
+    text-align:center;
+    padding-top:15px;
+    opacity:0.9;
+    font-size:15px;
+    width: 100%;
+    height: 95px;
+  }
+
+
+
+  footer a p {
+    color: #999;
+    text-decoration:none;
+  }
+  
+  footer a:hover, footer a:focus {
+    color: #aaa;
+    text-decoration:none;
+    border-bottom:1px dotted #999;
+  }
+
+
+  html {
+    min-height: 100%;
+    position: relative;
+  }
+  body {
+    margin: 0;
+    margin-bottom: 95px;
+  }
+
+body {
+  background-image: url("https://i.pinimg.com/originals/58/9a/d1/589ad14394e388c0bfa5605674b8d151.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
